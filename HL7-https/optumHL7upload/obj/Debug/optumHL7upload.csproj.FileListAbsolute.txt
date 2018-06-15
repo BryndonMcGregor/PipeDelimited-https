@@ -1,0 +1,6 @@
+C:\Users\241931\source\repos\optumHL7upload\optumHL7upload\bin\Debug\optumHL7upload.exe.config
+C:\Users\241931\source\repos\optumHL7upload\optumHL7upload\bin\Debug\optumHL7upload.exe
+C:\Users\241931\source\repos\optumHL7upload\optumHL7upload\bin\Debug\optumHL7upload.pdb
+C:\Users\241931\source\repos\optumHL7upload\optumHL7upload\obj\Debug\optumHL7upload.csproj.CoreCompileInputs.cache
+C:\Users\241931\source\repos\optumHL7upload\optumHL7upload\obj\Debug\optumHL7upload.exe
+C:\Users\241931\source\repos\optumHL7upload\optumHL7upload\obj\Debug\optumHL7upload.pdb
